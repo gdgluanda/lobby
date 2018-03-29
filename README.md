@@ -1,2 +1,5 @@
 # lobby
-gitter discussion room for GDG Luanda
+
+Join our discussion group here on [Gitter](https://gitter.im) here 👇
+
+https://gitter.im/gdg-luanda/Lobby
